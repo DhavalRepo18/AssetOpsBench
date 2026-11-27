@@ -61,6 +61,7 @@ Explore how people use, extend, evaluate and discuss **AssetOpsBench, FailureSen
 | [PHMForge-SME](https://github.com/Shawon559/PHMForge-SME) | Adapts the evaluation methodology to local-model bearing diagnosis using Paderborn data. |
 | [Faraday Industrial Benchmark](https://github.com/Faraday-Cage-AI/faraday-industrial-benchmark) | Preserves an attributed AOB code/data snapshot; native Faraday results are a separate evaluation. |
 | [OpenTalon trajectory schema](https://github.com/opentalon/opentalon/blob/main/internal/scenarios/trajectory.go) | Explicitly implements an AOB-inspired expected tool-call plan and rubric structure; methodological reuse, not verified dataset ingestion. |
+| [OpenSiro — VSM Harness Index](https://github.com/opensiro/vsm-harness-index) | Evidence-backed organizational assessments of open-source agent harnesses, including frameworks supported by AOB. Complementary architectural evaluation, not an AOB benchmark run. |
 | [University projects](docs/university-projects.md) | Named academic collaborations, scenario extensions, model optimization and agent research. |
 
 ## Industry & community coverage
